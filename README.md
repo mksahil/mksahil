@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mksahil
 - 👀 I’m interested in Data science and web devolopment
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on Projects releted to Data science and web devolopment
+- 💞️ I’m looking to collaborate on Projects releted to Data science 
 - 📫 How to reach me https://www.linkedin.com/in/sahil-kathewadi/
 
 <!---
